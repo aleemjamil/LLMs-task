@@ -1,4 +1,3 @@
-```markdown
 # Machine Learning in Recruiting - Chatbot
 
 ## Project Overview
